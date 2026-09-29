@@ -111,11 +111,12 @@ class PersonTest {
 *Результати тестування програми:*
 
 Запуск тесту в середовищі IntelliJ:
-![сценарій_3.png](img/сценарій_3.png)
+
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/0849f1a839e4a39221ffee571ae92188b5ac1f1e/Lab2/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-29%20232023.png" width="800">
 
 Запуск тесту через термінал (`mvn test`): 
 
-![сценарій_3.png](img/сценарій_3.png)
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/0849f1a839e4a39221ffee571ae92188b5ac1f1e/Lab2/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-29%20212600.png" width="800">
 
 ---
 ## Висновки
