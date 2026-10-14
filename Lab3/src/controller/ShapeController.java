@@ -26,6 +26,7 @@ public class ShapeController {
         view.displayArea("Сумарна площа прямокутників", rectArea);
         view.displayArea("Сумарна площа трикутників", triangleArea);
         view.displayArea("Сумарна площа кіл", circleArea);
+        view.displayArea("Сумарна площа всіх фігур", totalArea);
 
         // сортування за зростанням площі
         view.displayMessage("Впорядкування за збільшенням площі (Comparator)");

@@ -10,7 +10,7 @@ public class ShapeRepository {
         this.shapes = generateRandomShapes(Math.max(size, 10));
     }
     public Shape[] getShapes() {
-        return shapes;
+        return Arrays.copyOf(shapes, shapes.length);
     }
     public double calculateTotalArea() {
         double total = 0.0;
