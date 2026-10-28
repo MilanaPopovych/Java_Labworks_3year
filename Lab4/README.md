@@ -8,6 +8,9 @@
 У зоопарку є наступні види тварин: птахи (орли) та ссавці (леви, зебри, жирафи).
 Для цих тварин передбачено вольєри: вольєри для левів, вольєри для копитних (зебр
 та жирафів), вольєри для птахів. \
+Ієрархія вказаних об'єктів подана на малюнку:
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/3f7ebf5ab6a9eaa97ce2e7fec5b31783cc5920b5/Lab4/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-28%20092947.png" width="700">
+
 У вольєрі для левів можна розмістити тільки левів. У вольєрі для птахів – тільки
 птахів. У вольєрі для копитних – тільки зебр та жирафів. Реалізувати на основі узагальненого
 програмування (generics) вказані обмеження щодо розміщення тварин. \
@@ -31,7 +34,7 @@
 
 *UML-діаграма класів*
 
-<img src="" width="600">
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/fea34fbacee9d56e08a5d574288fb4a15db22b14/Lab4/img/java.png" width="800">
 
 **Лістинг коду**
 
@@ -152,15 +155,16 @@ public class ZooTest {
 *Результати тестування програми:*
 
 Модульні тести (JUnit) -- інтерфейс IntelliJ :
-<img src="" width="700">
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/3f7ebf5ab6a9eaa97ce2e7fec5b31783cc5920b5/Lab4/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-28%20081624.png" width="700">
 
 -- система збірки Maven:
-<img src="" width="700">
+
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/3f7ebf5ab6a9eaa97ce2e7fec5b31783cc5920b5/Lab4/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-28%20083415.png" width="700">
 
 Приклад помилки компіляції (розміщення льва у вольєрі з копитними): 
-<img src="" width="700">
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/3f7ebf5ab6a9eaa97ce2e7fec5b31783cc5920b5/Lab4/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-28%20081845.png" width="700">
 
 ---
 ## Висновки
-У результаті виконання лабораторної роботи було розроблено ієрархію Java-класів для моделювання зоопарку з застосуванням механізмів узагальненого програмування (generics).
+У результаті виконання лабораторної роботи було розроблено ієрархію Java-класів для моделювання зоопарку з застосуванням механізмів узагальненого програмування (generics) та масок (wildcards).
 Реалізовано модульні тести для перевірки надійності розробленого коду. 
