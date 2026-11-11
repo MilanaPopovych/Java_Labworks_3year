@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52d34636-ea1c-42b7-bd97-d9edd981a70b" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/Lab1/img/сценарій_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/img/сценарій_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/img/сценарій_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/img/сценарій_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/img/сценарій_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/img/сценарій_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/img/h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/src/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/controller/ShapeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/src/model/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/model/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/src/model/ShapeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/model/ShapeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/controller/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/model/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/model/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/model/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/model/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/model/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/model/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/model/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/model/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/model/ShapeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/model/ShapeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/model/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/model/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/view/ShapeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/main/java/lab3/view/ShapeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_labs_26-27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +56,9 @@
     &quot;accountId&quot;: &quot;f2003b22-0224-4eca-9324-957b2d392453&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,32 +67,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersonTest.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EncryptionApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TagCounter.executor": "Run",
+    "Application.WordCounter.executor": "Run",
+    "JUnit.PersonTest.executor": "Run",
+    "JUnit.ZooTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/polia/IdeaProjects/java_labs_26-27/Lab5/src/main/java/lab5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\polia\IdeaProjects\java_labs_26-27\Lab5\src\main\java\lab5" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\polia\IdeaProjects\java_labs_26-27\Lab4" />
+      <recent name="C:\Users\polia\IdeaProjects\java_labs_26-27\Lab1\src\main\java" />
+      <recent name="C:\Users\polia\IdeaProjects\java_labs_26-27\Lab3\src\main\java\lab2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -109,6 +142,11 @@
       <workItem from="1791967137648" duration="12000" />
       <workItem from="1791967182947" duration="831000" />
       <workItem from="1791968045055" duration="45000" />
+      <workItem from="1791971557419" duration="1986000" />
+      <workItem from="1791978932438" duration="2091000" />
+      <workItem from="1792364899747" duration="14000" />
+      <workItem from="1793160342028" duration="12715000" />
+      <workItem from="1794375692204" duration="8918000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -118,11 +156,30 @@
       <option name="project" value="LOCAL" />
       <updated>1791344034879</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1793170051782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793170051782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
