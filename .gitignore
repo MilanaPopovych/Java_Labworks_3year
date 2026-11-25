@@ -1,7 +1,0 @@
-@"
-target/
-**/target/
-.idea/
-*.iml
-*.class
-"@ | Out-File -Encoding utf8 .gitignore
