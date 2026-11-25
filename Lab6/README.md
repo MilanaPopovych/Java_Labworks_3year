@@ -258,11 +258,17 @@ class TranslatorTest {
 
 *Результати тестування програми:*
 
-<img src="" width="">
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/672cf7aff5b1e86a2af2299e163b7f8fa6242e1a/Lab6/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-11-25%20232001.png" width="600">
+
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/672cf7aff5b1e86a2af2299e163b7f8fa6242e1a/Lab6/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-11-25%20232105.png" width="600">
+
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/672cf7aff5b1e86a2af2299e163b7f8fa6242e1a/Lab6/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-11-25%20232157.png" width="600">
+
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/672cf7aff5b1e86a2af2299e163b7f8fa6242e1a/Lab6/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-11-25%20232211.png" width="600">
 
 *Результати виконання Unit-тестів:*
 
-<img src="" width="">
+<img src="https://github.com/MilanaPopovych/Java_Labworks_3year/blob/672cf7aff5b1e86a2af2299e163b7f8fa6242e1a/Lab6/img/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-11-25%20233241.png" width="">
 
 ---
 ## Висновки
